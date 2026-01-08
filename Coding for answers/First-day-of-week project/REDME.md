@@ -3,27 +3,17 @@
 Purpose
 - Small warm-up exercises to verify environment and run simple EDA examples.
 
+Quick links
+- Folder on GitHub: [first day week](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Coding%20for%20answers/first%20day%20week)
+- Data folder     : [data](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Coding%20for%20answers/first%20day%20week/data)
+
 Datasets used
-- sample_attendance.csv (small CSV used for in-notebook examples)
-- sample_timeseries.csv (tiny timeseries for plotting exercises)
+- `first-day-of-week.csv`
+- `four-regions.csv`
+- `population.csv`
 
 Download instructions
-1. If the dataset is included in the repo:
-   - Place the files in this folder's `data/` subfolder:
-     ```
-     Coding for answers/First-day-of-week project/data/first-day-of-week.csv
-     Coding for answers/First-day-of-week project/data/four-regions.csv
-     Coding for answers/First-day-of-week project/data/population.csv
-     ```
-2. If you need to re-download the sample files from a remote location:
-   - Using curl:
-     ```
-     mkdir -p "Coding for answers/First-day-of-week project/data"
-     curl -L -o "Coding for answers/first day week/data/sample_attendance.csv" "https://example.com/sample_attendance.csv"
-     ```
-   - Or using wget:
-     ```
-     wget -O "Coding for answers/first day week/data/sample_attendance.csv" "https://example.com/sample_attendance.csv"
-     ```
-Notes
-- Notebooks expect relative paths like `data/sample_attendance.csv`. If you place files elsewhere, update the path at the top of the notebook.
+- If datasets are committed: download directly from the repo:
+  - `curl -L -o first-day-of-week.csv "https://raw.githubusercontent.com/BhavikBuchke/Cisco-Data-science-program/main/Coding%20for%20answers/first%20day%20week/first-day-of-week.csv"`
+  - `curl -L -o four-regions.csv "https://raw.githubusercontent.com/BhavikBuchke/Cisco-Data-science-program/main/Coding%20for%20answers/first%20day%20week/four-regions.csv"`
+  - `curl -L -o population.csv "https://raw.githubusercontent.com/BhavikBuchke/Cisco-Data-science-program/main/Coding%20for%20answers/first%20day%20week/population.csv"`
