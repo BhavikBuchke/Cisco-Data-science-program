@@ -118,8 +118,7 @@ It complements other portfolio projects focused on:
 ## 👤 Author
 
 **Bhavik Buchke**
-MCA Student | Aspiring Data Scientist
-Focused on data-driven insights across global, business, and research domains
+| Data Scientist
 
 ---
 
