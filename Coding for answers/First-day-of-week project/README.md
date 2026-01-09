@@ -86,4 +86,47 @@ The analysis integrates multiple datasets:
 ├── population.csv
 ├── four-regions.csv
 └── README.md
+````
 
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Open the notebook in Jupyter Notebook or Google Colab
+3. Ensure all CSV files are present in the working directory
+4. Run all cells sequentially
+
+---
+
+## 🧠 Portfolio Placement
+
+This project demonstrates:
+
+* Strong foundational data analysis skills
+* Ability to synthesize insights from multiple data sources
+* Analytical thinking applied to non-trivial, real-world questions
+
+It complements other portfolio projects focused on:
+
+* Time series forecasting
+* Machine learning models
+* Exploratory data analysis
+* Business-oriented data problems
+
+---
+
+## 👤 Author
+
+**Bhavik Buchke**
+MCA Student | Aspiring Data Scientist
+Focused on data-driven decision-making, analytics, and machine learning
+
+---
+
+## ⭐ Portfolio Note
+
+This repository is part of a broader, continuously evolving portfolio.
+Additional projects explore forecasting, predictive modeling, and business analytics.
+
+⭐ *If you find this analysis useful, feel free to star the repository.*
