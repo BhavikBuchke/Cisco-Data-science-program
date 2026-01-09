@@ -112,9 +112,8 @@ It complements other portfolio projects focused on:
 ## 👤 Author
 
 **Bhavik Buchke**
-MCA Student | Aspiring Data Scientist
-Interested in applying data science across business, research, and real-world problem domains
-
+MCA Student 
+| Data Scientist
 ---
 
 ⭐ *This repository is part of a continuously evolving GitHub data science portfolio.*
