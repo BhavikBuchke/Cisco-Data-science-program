@@ -1,73 +1,81 @@
-# 🏝️ World’s Largest Islands Analysis  
-### Geographic Size, Regional Distribution & Political Composition  
+# 🏝️ World’s Largest Islands  
+### Exploratory Geographic Data Analysis  
 *(Part of My Data Analytics & Data Science Portfolio)*
 
-## 🔎 Project Context
+## 🔎 Project Overview
 
-This repository contains a data analysis project that explores the **largest islands in the world**, with a focus on geographic size, tropical distribution, regional representation, and political composition.  
-The project is part of my broader **Data Analytics and Data Science GitHub portfolio**, demonstrating the application of structured data analysis to **geographical and geopolitical datasets**.
+This project presents an **exploratory data analysis of the world’s largest islands** using structured geographic data.  
+The analysis focuses on island size, regional distribution, tropical presence, and political composition.
 
-This analysis highlights how data can be used to answer spatial and regional questions in a clear, analytical manner.
+The notebook is designed to demonstrate **core data analysis workflows** including data ingestion, sorting, grouping, visualization, and string-based filtering using Python.
 
 ---
 
-## 🎯 Objective
+## 🎯 Analytical Objectives
 
-The objectives of this project are to:
+The analysis addresses the following questions:
 
-- Identify the **10 largest islands located in the tropics**
-- Determine the **largest islands within each global region**
-- Analyze island size distribution using **rank vs area**
-- Identify islands that are **shared by multiple countries**
-
-The focus is on **exploratory and comparative analysis**, not predictive modeling.
+1. What are the **10 largest islands in the world**?
+2. What is the **largest island in each geographic region**?
+3. How does island **area vary with rank**?
+4. Which islands are **shared by multiple countries**?
 
 ---
 
 ## 📂 Dataset Used
 
-The analysis is based on the following dataset:
+- **`largest-islands.csv`**
 
-- **`largest-islands.csv`**  
-  Contains information about the world’s largest islands, including:
-  - Island name
-  - Area
-  - Rank by size
-  - Geographic region
-  - Country or countries associated with each island
+### Dataset Fields
+- `name` – Island name  
+- `area` – Area in square kilometers (km²)  
+- `rank` – Global rank by size  
+- `region` – Geographic region  
+- `countries` – Country or countries governing the island  
 
 ---
 
-## 🛠️ Skills & Tools Demonstrated
+## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
-- Exploratory Data Analysis (EDA)
-- Geographic and regional data analysis
-- Ranking and sorting techniques
-- Data visualization (line graph)
-- Jupyter Notebook / Google Colab workflow
+- Matplotlib
+- Jupyter Notebook / Google Colab
 
 ---
 
-## 🔬 Key Analyses Performed
+## 🔬 Analysis Performed
 
-- Filtering islands located within tropical latitudes
-- Identifying the top 10 largest tropical islands
-- Grouping islands by region to find the largest per region
-- Creating a line graph with:
-  - **X-axis:** Island rank (largest to smallest)
-  - **Y-axis:** Island area
-- Identifying islands governed by **multiple countries**
+### 1. Data Loading & Inspection
+- Loaded the dataset using Pandas
+- Inspected structure and sample rows using `head()`
+
+### 2. Largest Islands by Area
+- Sorted islands by `area` in descending order
+- Extracted the **top 10 largest islands globally**
+
+### 3. Largest Island by Region
+- Grouped data by `region`
+- Identified the largest island within each region using sorted grouping
+
+### 4. Rank vs Area Visualization
+- Created a **line graph** with:
+  - X-axis: Island rank (largest to smallest)
+  - Y-axis: Island area (km²)
+- Used Matplotlib for visualization
+
+### 5. Multi-Country Islands
+- Identified islands governed by **multiple countries**
+- Used string pattern matching (`str.contains(',')`) on the `countries` column
 
 ---
 
-## 💡 Key Insights
+## 📈 Key Observations
 
-- Tropical regions contain several of the world’s largest islands
-- Island size distribution shows a steep decline after the top-ranked islands
-- Some islands span multiple countries, reflecting geopolitical complexity
-- Regional analysis highlights significant variation in island size dominance
+- Island size drops sharply after the highest-ranked islands
+- Certain regions are dominated by a single very large island
+- Several large islands span **multiple countries**, reflecting geopolitical complexity
+- Ranking and area have a strong, non-linear relationship
 
 ---
 
@@ -85,26 +93,25 @@ The analysis is based on the following dataset:
 
 1. Clone the repository
 2. Open the notebook in **Jupyter Notebook** or **Google Colab**
-3. Ensure the dataset is present in the working directory
-4. Run all cells sequentially to reproduce the analysis
+3. Ensure `largest-islands.csv` is in the same directory
+4. Run cells sequentially
 
 ---
 
-## 🧠 Portfolio Placement
+## 🧠 Portfolio Relevance
 
 This project demonstrates:
 
-* Ability to analyze geographic and spatial datasets
-* Strong skills in ranking, filtering, and comparative analysis
-* Experience combining data analysis with visualization
-* Analytical reasoning applied to real-world geography and geopolitics
+* Clean exploratory data analysis
+* Sorting, grouping, and aggregation logic
+* Basic but effective data visualization
+* Ability to translate geographic questions into data queries
 
 It complements other portfolio projects focused on:
 
-* Exploratory data analysis
-* Global population and connectivity
-* Scientific and research-oriented datasets
-* Consumer and product analysis
+* Global datasets
+* Scientific and geographic analysis
+* Structured exploratory workflows
 
 ---
 
