@@ -1,7 +1,6 @@
 # Car Dimensions: A Decade-by-Decade Evolution Analysis
 
-> **Created as part of the Cisco Data Science Program.**
-
+> **Analyzing the intersection of automotive design and urban constraints.**
 ## 📊 Executive Summary
 
 In the automotive world, "size inflation" is a well-documented phenomenon. Modern cars are often significantly larger than their predecessors of the same model name. This project quantifies this trend by analyzing 53 iconic car models, comparing the physical dimensions of their **First Generation** to their **Latest Generation**.
@@ -115,4 +114,4 @@ jupyter notebook "Car dimensions.ipynb"
 
 ---
 
-*Analyzing the intersection of automotive design and urban constraints.*
+**Created as part of the Cisco Data Science Program.**
