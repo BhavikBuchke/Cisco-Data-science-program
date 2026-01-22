@@ -1,6 +1,6 @@
 # World Population Distribution: 1800 – 2100 Analysis
 
-> **Created as part of the Cisco Data Science Program.**
+> **Analyzing the past to understand the future of our global community.**
 
 ## 📊 Executive Summary
 
@@ -112,4 +112,4 @@ jupyter notebook "Continent populations.ipynb"
 
 ---
 
-*Analyzing the past to understand the future of our global community.*
+**Created as part of the Cisco Data Science Program.**
