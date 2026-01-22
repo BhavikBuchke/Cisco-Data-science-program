@@ -1,6 +1,6 @@
 # Banknote Dimensions: Global Accessibility & Practicality Analysis
 
-> **Created as part of the Cisco Data Science Program.**
+> **Developed with a focus on data storytelling and visual clarity.**
 
 ## 📊 Executive Summary
 
@@ -112,4 +112,4 @@ jupyter notebook "banknote dimensions.ipynb"
 
 ---
 
-*Developed with a focus on data storytelling and visual clarity.*
+**Created as part of the Cisco Data Science Program.**
