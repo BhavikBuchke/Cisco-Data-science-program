@@ -57,6 +57,8 @@ To create a "Recruiter-Ready" chart, the following enhancements were made via `m
 
 The plot below illustrates the cooling trajectory of each container. The dramatic separation of the "Insulated with Lid" line showcases the superior thermal efficiency of sealed systems.
 
+<img width="1000" height="600" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/27cff336-d47e-47fb-a887-4d0731b93e03" />
+
 ---
 
 ## 🚀 How to Run
