@@ -45,7 +45,7 @@ The repository is organized chronologically to reflect the five stages of the ce
 * **Key Skills:** Multicollinearity management, quadratic and polynomial regression, and object-oriented analysis (Custom Python classes).
 * **Highlights:** Lion Nose Color tracking, Blood Pressure cross-cultural modeling, and Stopping Distance physics.
 
-### 5. [Data Integrity & Storytelling](https://www.google.com/search?q=./Data%2520integrity)
+### 5. [Storytelling](https://www.google.com/search?q=./Data%2520integrity)
 
 **The Professional Showcase**
 
