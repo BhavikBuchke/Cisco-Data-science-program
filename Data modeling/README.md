@@ -16,17 +16,17 @@ By prioritizing data integrity, we ensure that the resulting insights—whether 
 
 ## 📂 Project Catalog
 
-The following table outlines the diverse data challenges addressed within this module and the subsequent impact on business and research decision-making.
+The following table outlines the diverse data challenges addressed within this module and the subsequent impact on research and decision-making.
 
-| Project Name | Primary Data Challenge | Business / Research Impact |
+| Project Name | Primary Data Challenge | Research / Analytical Impact |
 | --- | --- | --- |
-| **[Natural Gas Pricing](https://www.google.com/search?q=https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%2520modeling/Natural%2520gas%2520project)** | Time-series extrapolation & varying snapshots  | Enables energy traders to forecast seasonal price volatility and hedge risk effectively.  |
-| **[Loan Default Prediction](https://www.google.com/search?q=https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%2520modeling/Loan%2520default%2520prediction%2520project)** | High-dimensional noise & class imbalance | Reduces credit risk for retail banking by identifying high-probability default indicators. |
-| **[FICO Score Bucketing](https://www.google.com/search?q=https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%2520modeling/FICO%2520score%2520project)** | Transforming continuous scores into discrete risk tiers | Streamlines mortgage approval workflows through automated, data-driven credit rating. |
-| **[Blood Pressure Study](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Blood%20Pressure%20Project)** | Cross-cultural comparative modeling | Isolates lifestyle factors (sodium) from biological aging to inform public health policy. |
-| **[Lion Nose Color](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Lion%20Nose%20Color%20Project)** | Non-linear biological growth tracking | Provides a non-invasive, high-accuracy tool for sustainable wildlife management. |
-| **[Lunar Attack Patterns](https://www.google.com/search?q=https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%2520modeling/Lion%2520attacks%2520project)** | Environmental darkness as a temporal confounding variable | Identifies high-risk "danger zones" to mitigate human-wildlife conflict. |
-| **[Aposematism Modeling](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Poison%20Dart%20Frogs%20Project)** | Linking visual signals to chemical toxicity | Validates evolutionary "Honest Signal" theories using spectral reflectance data. |
+| **[Animal Sleep Study](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Animal%20Sleep%20Project)** | Multi-variable correlation (Body Weight vs. Sleep) | Analyzes the biological relationship between brain size, ecological danger, and sleep cycles across species. |
+| **[Blood Pressure Study](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Blood%20Pressure%20Project)** | Cross-cultural comparative modeling | Isolates lifestyle factors (sodium intake) from biological aging to inform public health policy. |
+| **[Lion Nose Color](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Lion%20Nose%20Color%20Project)** | Non-linear biological growth tracking | Provides a non-invasive, high-accuracy tool for sustainable wildlife management and age estimation. |
+| **[Lion Attack Patterns](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Lion%20attacks%20project)** | Environmental darkness as a temporal confounding variable | Identifies high-risk "danger zones" based on lunar cycles to mitigate human-wildlife conflict. |
+| **[Aposematism (Poison Dart Frogs)](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Poison%20Dart%20Frogs%20Project)** | Linking visual signals to chemical toxicity | Validates evolutionary "Honest Signal" theories using spectral reflectance data. |
+| **[Stopping Distance Physics](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Stopping%20distance%20project)** | Quadratic & Polynomial Regression | Models the physics of motion to determine the non-linear relationship between speed and braking distance. |
+| **[Tusked Elephant Evolution](https://github.com/BhavikBuchke/Cisco-Data-science-program/tree/main/Data%20modeling/Tusked%20elephant%20project)** | Evolutionary pressure analysis | Investigates the correlation between poaching/hunting pressure and the prevalence of tuskless traits in populations. |
 
 ---
 
